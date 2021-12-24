@@ -19,10 +19,7 @@ Results are stored in localstorage.
 Screenshots
 -----------
 
-![Web capture_24-12-2021_04227_](https://user-images.githubusercontent.com/94205464/147321314-d4a62cb6-d94c-4473-bfcf-b32f6c34eff9.jpeg)
-![Web capture_24-12-2021_04210_](https://user-images.githubusercontent.com/94205464/147321315-c2c6eb29-eb30-467d-b1e9-0dc1abebc3fc.jpeg)
-![Web capture_24-12-2021_04157_](https://user-images.githubusercontent.com/94205464/147321316-1191ffd5-aaf2-44b6-8247-f5fa4ed1b173.jpeg)
-![Web capture_24-12-2021_03823_](https://user-images.githubusercontent.com/94205464/147321317-cdda7ecf-2806-4861-ae5d-a4af5c523370.jpeg)
-![Web capture_24-12-2021_03813_](https://user-images.githubusercontent.com/94205464/147321318-9870aac8-a9d3-4189-8b58-8099b5483dc3.jpeg)
-![Web capture_24-12-2021_03750_](https://user-images.githubusercontent.com/94205464/147321319-22bd700c-b1b2-4550-bae0-17db9d485b2e.jpeg)
-![Web capture_24-12-2021_03734_](https://user-images.githubusercontent.com/94205464/147321320-6941899b-69a1-4d4a-9e6e-d7c6ccdf4876.jpeg)
+![Web capture_24-12-2021_03734_](https://user-images.githubusercontent.com/94205464/147321669-9d24e72e-d390-4b21-b2d6-07a2b4b09596.jpeg)
+![Web capture_24-12-2021_03750_](https://user-images.githubusercontent.com/94205464/147321674-8d2392b5-5845-442b-b778-98311af37d0e.jpeg)
+![Web capture_24-12-2021_03813_](https://user-images.githubusercontent.com/94205464/147321679-ceb4b77a-4172-4679-9961-33739dae455d.jpeg)
+![Web capture_24-12-2021_04227_](https://user-images.githubusercontent.com/94205464/147321683-0f3dc4d2-0fd8-479c-9a03-66edb49859c5.jpeg)
