@@ -11,10 +11,10 @@ when question is answered another question is displayed.If the answer is incorre
 Tasks competed
 --------------
 
-Used bootstrap to create a web page.
-functions are written in javascript.
-Questions and Answers are stored in array of object.
-Results are stored in localstorage.
+* Used bootstrap to create a web page.
+* functions are written in javascript.
+* Questions and Answers are stored in array of object.
+* Results are stored in localstorage.
 
 Screenshots
 -----------
@@ -23,3 +23,15 @@ Screenshots
 ![Web capture_24-12-2021_03750_](https://user-images.githubusercontent.com/94205464/147321674-8d2392b5-5845-442b-b778-98311af37d0e.jpeg)
 ![Web capture_24-12-2021_03813_](https://user-images.githubusercontent.com/94205464/147321679-ceb4b77a-4172-4679-9961-33739dae455d.jpeg)
 ![Web capture_24-12-2021_04227_](https://user-images.githubusercontent.com/94205464/147321683-0f3dc4d2-0fd8-479c-9a03-66edb49859c5.jpeg)
+
+The website is deployed at https://vakrathundaya.github.io/codeQuiz/
+
+Installation
+-------------
+Upload index.html,style.css,script.js to the deployed webserver. 
+
+The website was deployed using GitHub Pages.
+
+Usage 
+------
+Once deployed the application can be viewed in a traditional desktop web browser. It is optimized for smaller screens.
