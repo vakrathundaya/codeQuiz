@@ -149,8 +149,7 @@ submitScrBtn.addEventListener("click", addScore);
 
 function storeScores() {
     localStorage.setItem("scoreList", JSON.stringify(scoreList));
-    //console.log(JSON.stringify(scoreList));
-}
+   }
 function displayScores() {
     let storedScoreList = JSON.parse(localStorage.getItem("scoreList"));
 
@@ -161,10 +160,9 @@ function displayScores() {
 
 // clear scores
 function clearScores() {
-    localStorage.removeItem("scoreList");
+    localStorage.clear();
     scoreListEl.textContent = "";
-   
-}
+ }
 // Clear the scores
 clearScrBtn.addEventListener("click", clearScores);
 
