@@ -1,5 +1,5 @@
 // variables for page elements
-let timeEl = document.querySelector("p.time");
+var timeEl = document.querySelector("p.time");
 let secondsLeft = 75;
 let scoreEl = document.querySelector("#score");
 const introEl = document.querySelector("#intro");
@@ -125,7 +125,8 @@ ansBtn.forEach(item => {
 function addScore(event) {
     event.preventDefault()
     ViewHighscoresEl.style.display = 'none';
-    timeEl.style.display = "none";
+    //timeEl.style.display = 'none';
+    timeEl.style.visibility = "hidden";
 
     finalEl.style.display = "none";
     highscoresEl.style.display = "block";
@@ -148,6 +149,7 @@ submitScrBtn.addEventListener("click", addScore);
 
 function storeScores() {
     localStorage.setItem("scoreList", JSON.stringify(scoreList));
+    //console.log(JSON.stringify(scoreList));
 }
 function displayScores() {
     let storedScoreList = JSON.parse(localStorage.getItem("scoreList"));
@@ -159,17 +161,16 @@ function displayScores() {
 
 // clear scores
 function clearScores() {
-    localStorage.clear();
+    localStorage.removeItem("scoreList");
     scoreListEl.textContent = "";
-
+   
 }
 // Clear the scores
 clearScrBtn.addEventListener("click", clearScores);
 
 // Go Back Button
 goBackBtn.addEventListener("click", function () {
-
-    timeEl.style.display = "block";
+    timeEl.style.visibility = "visible";
     ViewHighscoresEl.style.display = "block";
 
     highscoresEl.style.display = "none";
