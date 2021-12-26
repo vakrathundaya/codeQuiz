@@ -44,6 +44,16 @@ list-style-type: none;
 .ansBtn:active:focus {
     box-shadow: none;
     outline: none;
+    background-color: #800080;
+    color: #ffffff;
+}
+#start,
+#goback,
+#clearscore,
+#submit-score,
+#clearscores{
+    background-color: #800080;
+    color: #ffffff;
 }
 
 #view-scores{
