@@ -19,8 +19,6 @@ Tasks competed
 Screenshots
 -----------
 
-![Web capture_24-12-2021_03734_](https://user-images.githubusercontent.com/94205464/147321669-9d24e72e-d390-4b21-b2d6-07a2b4b09596.jpeg)
-![Web capture_24-12-2021_03750_](https://user-images.githubusercontent.com/94205464/
 ![Web capture_25-12-2021_214324_](https://user-images.githubusercontent.com/94205464/147397642-e0f41c28-f35d-4037-ad7e-a93711d3db7e.jpeg)
 ![Web capture_25-12-2021_214314_](https://user-images.githubusercontent.com/94205464/147397643-5696f184-73c5-4157-8723-f5c00c8b3255.jpeg)
 ![Web capture_25-12-2021_21431_](https://user-images.githubusercontent.com/94205464/147397644-3cc99579-891b-4153-8c8e-3553db1b587b.jpeg)
