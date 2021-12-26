@@ -20,9 +20,12 @@ Screenshots
 -----------
 
 ![Web capture_24-12-2021_03734_](https://user-images.githubusercontent.com/94205464/147321669-9d24e72e-d390-4b21-b2d6-07a2b4b09596.jpeg)
-![Web capture_24-12-2021_03750_](https://user-images.githubusercontent.com/94205464/147321674-8d2392b5-5845-442b-b778-98311af37d0e.jpeg)
-![Web capture_24-12-2021_03813_](https://user-images.githubusercontent.com/94205464/147321679-ceb4b77a-4172-4679-9961-33739dae455d.jpeg)
-![Web capture_24-12-2021_04227_](https://user-images.githubusercontent.com/94205464/147321683-0f3dc4d2-0fd8-479c-9a03-66edb49859c5.jpeg)
+![Web capture_24-12-2021_03750_](https://user-images.githubusercontent.com/94205464/
+![Web capture_25-12-2021_214324_](https://user-images.githubusercontent.com/94205464/147397642-e0f41c28-f35d-4037-ad7e-a93711d3db7e.jpeg)
+![Web capture_25-12-2021_214314_](https://user-images.githubusercontent.com/94205464/147397643-5696f184-73c5-4157-8723-f5c00c8b3255.jpeg)
+![Web capture_25-12-2021_21431_](https://user-images.githubusercontent.com/94205464/147397644-3cc99579-891b-4153-8c8e-3553db1b587b.jpeg)
+![Web capture_25-12-2021_214244_](https://user-images.githubusercontent.com/94205464/147397645-87099941-69a2-4693-ada2-dfb0a17adab5.jpeg)
+![Web capture_25-12-2021_213924_](https://user-images.githubusercontent.com/94205464/147397646-ff05a693-4aab-4d20-8ee9-cc93e69affa8.jpeg)
 
 The website is deployed at https://vakrathundaya.github.io/codeQuiz/
 
