@@ -18,20 +18,14 @@ Tasks competed
 
 Screenshots
 -----------
+![Web capture_27-12-2021_221246_](https://user-images.githubusercontent.com/94205464/147524083-f034e77e-b3f9-4786-8f39-40681eb3c2e7.jpeg)
+![Web capture_27-12-2021_22136_](https://user-images.githubusercontent.com/94205464/147524082-9fd3bac9-a454-4de3-b2bf-d428dcf07b9d.jpeg)
+![Web capture_27-12-2021_221339_](https://user-images.githubusercontent.com/94205464/147524080-ff61f865-6fb3-47e2-9b93-82a0278b8495.jpeg)
+![Web capture_27-12-2021_221357_](https://user-images.githubusercontent.com/94205464/147524079-fe0b37c5-2e5f-47a4-be80-1bf32b346b6a.jpeg)
+![Web capture_27-12-2021_22149_](https://user-images.githubusercontent.com/94205464/147524078-db1fedef-3a8c-440e-9fc9-aa71a68e346f.jpeg)
 
-![Web capture_25-12-2021_214324_](https://user-images.githubusercontent.com/94205464/147397642-e0f41c28-f35d-4037-ad7e-a93711d3db7e.jpeg)
 
-Screenshot after start quiz button is clicked
----------------------------------------------
-![Web capture_25-12-2021_215122_](https://user-images.githubusercontent.com/94205464/147397714-79db3585-0f09-42d4-bb8a-1048fe39b5bc.jpeg)
 
-![Web capture_25-12-2021_214244_](https://user-images.githubusercontent.com/94205464/147397645-87099941-69a2-4693-ada2-dfb0a17adab5.jpeg)
-![Web capture_25-12-2021_21431_](https://user-images.githubusercontent.com/94205464/147397644-3cc99579-891b-4153-8c8e-3553db1b587b.jpeg)
-![Web capture_25-12-2021_214314_](https://user-images.githubusercontent.com/94205464/147397643-5696f184-73c5-4157-8723-f5c00c8b3255.jpeg)
-
-Screenshot after Go Back button is clicked
----------------------------------------------
-![Web capture_25-12-2021_214324_](https://user-images.githubusercontent.com/94205464/147397642-e0f41c28-f35d-4037-ad7e-a93711d3db7e.jpeg)
 
 
 The website is deployed at https://vakrathundaya.github.io/codeQuiz/
