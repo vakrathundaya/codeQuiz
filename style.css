@@ -4,7 +4,6 @@
     font-family: 'Noto Sans TC', sans-serif;
 }
 
-/* For sticky footer - used flexbox from https://css-tricks.com/couple-takes-sticky-footer/ */
 html, body {
     height: 100%;
 }
@@ -60,7 +59,6 @@ list-style-type: none;
     color : black;
 }
 
-/* Media queries for background image from https://web.dev/optimize-css-background-images-with-media-queries/ */
 
 /* Mobile */
 @media (max-width: 480px) {
