@@ -22,11 +22,14 @@ Screenshots
 ![Web capture_27-12-2021_22136_](https://user-images.githubusercontent.com/94205464/147524082-9fd3bac9-a454-4de3-b2bf-d428dcf07b9d.jpeg)
 ![Web capture_27-12-2021_221339_](https://user-images.githubusercontent.com/94205464/147524080-ff61f865-6fb3-47e2-9b93-82a0278b8495.jpeg)
 ![Web capture_27-12-2021_221357_](https://user-images.githubusercontent.com/94205464/147524079-fe0b37c5-2e5f-47a4-be80-1bf32b346b6a.jpeg)
+
+Screenshot after clicking goBack button
+---------------------------------------
+
 ![Web capture_27-12-2021_22149_](https://user-images.githubusercontent.com/94205464/147524078-db1fedef-3a8c-440e-9fc9-aa71a68e346f.jpeg)
 
-
-
-
+Links
+-----
 
 The website is deployed at https://vakrathundaya.github.io/codeQuiz/
 
